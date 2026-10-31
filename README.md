@@ -1,4 +1,4 @@
-<<div align="center">
+<div align="center">
   
 <img width="330" height="340" alt="wifies2" src="https://github.com/user-attachments/assets/da65b7c7-2efa-4559-bc90-72e5981a4202" />
 
