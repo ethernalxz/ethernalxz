@@ -2,7 +2,7 @@
 
 img
 
-$\text{\color{#fffff}  "I've been here sixty years and I'm still not bored!"
+$\text{\color{#fffff}  "BOM DIGI DIGI BOM BOM BOM BOM"
   }$
 
   img
