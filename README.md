@@ -1,8 +1,8 @@
 <div aligh="center">
 
-img
+wip
 
 $\text{\color{#fffff}  "BOM DIGI DIGI BOM BOM BOM BOM"
   }$
 
-  img
+  wip
