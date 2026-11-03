@@ -1,8 +1,8 @@
 <div align="center">
 
   
-  $\text{\color{#ff0000}  "BOM DIGI DIGI BOM BOM BOM BOM"  
-}$ 
+   $\text{\color{#ff0000}   "BOM DIGI DIGI BOM BOM BOM BOM"  
+ }$ 
 
 
 <div align="center">
