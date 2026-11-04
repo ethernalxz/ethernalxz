@@ -1,7 +1,7 @@
 <div align="center">
 
   
-   #\text{\color{#EDBA2D}   "BOM DIGI DIGI BOM BOM BOM BOM"
+   $\text{\color{#EDBA2D}   "BOM DIGI DIGI BOM BOM BOM BOM"
  }$ 
  
 <img width="550" height="470" alt="deidaragraohicsasoritobi" src="https://github.com/user-attachments/assets/3c9cdbf8-a00d-4f60-a430-43be6d7607d7" />
