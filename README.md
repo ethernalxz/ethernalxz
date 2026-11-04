@@ -17,4 +17,3 @@
   </a>
 </p>
 
-<img align="left" width="200" height="212" alt="Screenshot 2026-11-03 194122" src="https://github.com/user-attachments/assets/6975404f-60c9-4c7d-85e3-4ef8d72a02cd" />
