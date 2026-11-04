@@ -4,7 +4,7 @@
    $\text{\color{#EDBA2D}   "BOM DIGI DIGI BOM BOM BOM BOM"
  }$ 
  
-<img align="left" width="600" height="560" alt="deidaragraohicsasoritobi" src="https://github.com/user-attachments/assets/3c9cdbf8-a00d-4f60-a430-43be6d7607d7" />
+<img width="600" height="560" alt="deidaragraohicsasoritobi" src="https://github.com/user-attachments/assets/3c9cdbf8-a00d-4f60-a430-43be6d7607d7" />
 
   
   $\text{\color{#EDBA2D}   “Art… is an explosion, yeah!”
