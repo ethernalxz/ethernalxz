@@ -17,7 +17,7 @@
   </a>
 </p>
 
-<img align="right" width="1203" height="1076" alt="deidara1" src="https://github.com/user-attachments/assets/a62e04bc-22c3-477b-9018-781732f9a543" />
+<img align="left" width="1203" height="1076" alt="deidara1" src="https://github.com/user-attachments/assets/a62e04bc-22c3-477b-9018-781732f9a543" />
 
   $\text{\color{#EDBA2D}  “Sasori, my man..”
 }$
