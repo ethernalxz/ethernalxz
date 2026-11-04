@@ -19,3 +19,5 @@
 
   $\text{\color{#EDBA2D}  “Sasori, my man..”
 }$
+
+$$\text{\Huge\color{#EDBA2D}“Art… is an explosion, yeah!”}$$
